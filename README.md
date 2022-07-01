@@ -1,5 +1,7 @@
 # Amazon_Vine_Analysis
 
+PLEASE NOTE MY CODE FOR DELIVERABLE 2 IS IN THE SAME FILE AS DELIVERABLE 1.
+
 ## Purpose and Scope
 
 The purpose of this analysis was to look at a category of Amazon retail, and determine top products based on different metrics with an emphasis on consumer reviews.
